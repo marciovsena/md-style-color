@@ -5,20 +5,10 @@ An option not available under the angular-materials regarding the issues is the 
 ## How to use?
 
 ````
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Demo</title>
-</head>
-<body>
   <!-- add primary color in background -->
   <h1 md-style-color="primary" md-bg-color>Teste</h1>
   <!-- add accent color in font color -->
   <h2 md-style-color md-text-color>Teste</h2>
-
-</body>
-</html>
 ````
 
 ## Dependencies
